@@ -1,0 +1,45 @@
+.section3 {
+    width: 100%;
+    height: 243px;
+
+    h2 {
+        font-family: sans-serif;
+        font-weight: 700;
+        font-size: 22px;
+        color: #FF5E69;
+        padding-top: 31px;
+    }
+
+   .flex {
+       display: flex;
+       justify-content: space-around;
+
+       .left2 {
+        padding-top: 35px;
+
+        h3 {
+            font-family: sans-serif;
+            font-weight: 700;
+            font-size: 22px;
+            color: #FF5E69;
+        }
+
+        h1 {
+            font-family: sans-serif;
+            font-weight: 700;
+            font-size: 54px;
+        }
+       }
+
+       .right2 {
+
+            h4 {
+                padding-top: 40px;
+                font-family: sans-serif;
+                font-weight: 300;
+                font-size: 22px;
+                color: #666666;
+            }
+       }
+   }
+}

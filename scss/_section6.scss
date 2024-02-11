@@ -1,0 +1,51 @@
+.section6 {
+    width: 100%;
+    height: 742px;
+
+    h2 {
+        font-family: sans-serif;
+        font-weight: 700;
+        font-size: 22px;
+        color: #FF5E69;
+        padding-top: 45px;
+    }
+    .flex2 {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 101px;
+
+        .right5 {
+            h1 {
+                font-family: sans-serif;
+                font-weight: 700;
+                font-size: 33px;
+                padding-top: 32px;
+            }
+
+            h3 {
+                font-family: sans-serif;
+                font-weight: 700;
+                font-size: 20px;
+                padding-top: 50px;
+            }
+
+            h4 {
+                font-family: sans-serif;
+                font-weight: 400;
+                font-size: 18px;
+                padding-top: 7px;
+            }
+
+            button {
+                width: 53px;
+                height: 54px;
+                background-color: #000000; 
+                margin-top: 40px;
+            }
+
+            .knopkalar {
+                margin-left: 430px;
+            }
+        }
+    }
+}
